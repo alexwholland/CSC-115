@@ -69,7 +69,7 @@ public class StudentLinkedList implements StudentList {
                 if (cur.getData().equals(student)) {
                     return true;
                 }
-                cur = head.next;
+                cur = cur.next;
             }
         }
         return false;
