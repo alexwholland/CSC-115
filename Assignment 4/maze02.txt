@@ -1,0 +1,15 @@
+11 13
+3 0
+10 11
+HHHHHHHHHHHHH
+H           H
+HHHH H HHHH H
+     H    H H
+H HHHHHHH H H
+H H       H H
+HHHHH HHHHHHH
+H     H     H
+H HHHHH H HHH
+H       H   H
+HHHHHHHHHHH H
+

@@ -1,0 +1,35 @@
+31 31
+0 1
+30 29
+H HHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+H             H       H       H
+H HHHHHHH HHHHH H HHH HHHHHHH H
+H H H     H     H   H       H H
+H H H HHHHH HHHHHHH HHHHHHH H H
+H H H       H     H     H H   H
+H H HHHHHHH H HHH HHHHH H HHH H
+H   H     H   H       H H     H
+HHH H HHH H HHHHHHHHH H H HHHHH
+H   H H H H H   H H   H H H   H
+H HHH H H HHH H H H HHH HHH H H
+H H H H     H H H H H H H   H H
+H H H HHHHH H H H H H H H HHH H
+H   H   H H H H H     H   H   H
+HHH HHH H H H H HHHHHHHHHHH H H
+H     H H H   H H     H     H H
+H HHHHH H HHHHH H HHH H HHHHH H
+H H     H     H H H H   H H   H
+HHH HHHHH HHH H H H HHHHH H HHH
+H   H   H H H   H H     H H   H
+H HHHHH H H HHHHH H HHH H HHH H
+H     H H H H     H H     H   H
+H HHH H H H H H HHH HHHHHHH HHH
+H H   H H H   H H   H   H   H H
+HHH HHH H HHHHH H HHH H H HHH H
+H   H   H       H     H H   H H
+H HHH HHHHHHHHHHH HHHHH HHH H H
+H H   H       H   H   H   H H H
+HHH HHH HHHHH H HHH H HHH H H H
+H           H       H   H     H
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHH H
+

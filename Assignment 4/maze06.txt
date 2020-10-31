@@ -1,0 +1,45 @@
+41 41
+0 1
+40 39
+H HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+H       H               H   H       H   H
+H H HHH HHHHH HHHHHHHHH H H HHH HHH H H H
+H H   H     H         H   H     H   H H H
+HHHHH HHHHH HHHHH HHH H HHHHHHHHH HHH HHH
+H     H     H   H   H H H     H   H     H
+H HHHHH HHHHH H HHHHH HHH HHH H HHHHHHH H
+H   H         H       H   H   H H       H
+H H HHHHHHHHHHHHHHHHHHH HHH HHH H HHHHH H
+H H H       H       H   H H   H   H   H H
+H H H HHHHH H HHHHH H HHH HHH HHHHHHH H H
+H H H   H   H   H   H   H   H       H   H
+HHH HHH H H HHH H HHHHH HHH HHHHHHH HHH H
+H   H   H H H   H     H           H   H H
+H HHH HHH H H HHHHHHH HHHHHHHHHHH HHH HHH
+H H   H   H H H   H H   H     H H   H   H
+H H HHH HHHHH H H H H HHH H H H HHH HHH H
+H H H H     H   H H H     H H   H H   H H
+H H H HHHHH HHHHH H HHHHHHH HHH H HHH H H
+H H H     H     H   H     H H     H   H H
+H H HHHHH H HHH HHH H H H H HHHHHHH HHH H
+H H H   H H H   H H H H H H H         H H
+H H H H H H HHH H H HHH H H H HHHHHHHHH H
+H H H H H H   H   H   H H H   H     H   H
+H H H H H HHH HHHHHHH H H HHHHH HHHHHHHHH
+H   H H   H H         H H H H           H
+H HHH HHH H HHHHHHHHHHH H H H HHHHH HHHHH
+H H     H H     H       H H   H     H   H
+H HHHHH H H H HHH HHHHH H HHHHH HHHHH H H
+H   H   H   H H   H     H     H H   H H H
+HHH H HHHHHHHHH HHH HHHHHHHHH H H H H H H
+H H H           H H       H     H H   H H
+H H HHHHHHHHH HHH HHHHHHH HHHHH H HHHHH H
+H   H       H H         H     H H H   H H
+H HHH HHHHH H HHHHHHH HHHHHHH HHH H H H H
+H     H     H         H     H       H H H
+HHHHHHH HHHHHHHHHHHHHHH HHH HHH HHHHHHH H
+H     H             H   H H   H   H   H H
+H H HHHHHHHHHHHHHHH H HHH HHH HHHHH H H H
+H H                   H             H   H
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH H
+
