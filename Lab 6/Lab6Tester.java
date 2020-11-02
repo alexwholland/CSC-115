@@ -37,7 +37,7 @@ public class Lab6Tester {
             stk.push(str.charAt(i));
         }
         String result = "";
-        for (int i = 0; i < str.length(); i++){
+        while (!stk.isEmpty()){
             result += stk.pop();
         }
         return result;
