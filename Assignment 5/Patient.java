@@ -1,6 +1,6 @@
 /*
 Assignment 5
-Alex Holland - V00928553
+Alex Holland
  */
 
 /*
