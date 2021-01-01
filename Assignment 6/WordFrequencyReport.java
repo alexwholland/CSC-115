@@ -1,4 +1,6 @@
-// Name: Alex Holland
+/*
+Alex Holland
+*/
 
 import java.util.*;
 public class WordFrequencyReport<K extends Comparable<K>, V> {
