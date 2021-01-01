@@ -1,0 +1,1 @@
+index of words is difficult to calculate alphabetically if not careful and when attention to detail of each word is not considered carefully because a word is taken one letter at a time when deciding how to calculate and sort words alphabetically to implement a BST when writing a method
