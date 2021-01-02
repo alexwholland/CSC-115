@@ -1,1 +1,1 @@
-# Course Material from CSC 115
+# Course Work from CSC 115
